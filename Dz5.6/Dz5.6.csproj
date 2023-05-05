@@ -7,7 +7,7 @@
     <ProjectGuid>{E97588FA-F494-4DE1-96FF-6543A8454EE0}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <RootNamespace>Dz5._6</RootNamespace>
-    <AssemblyName>Dz5._6</AssemblyName>
+    <AssemblyName>Dz5.6</AssemblyName>
     <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>

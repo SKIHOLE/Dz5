@@ -12,6 +12,8 @@ namespace Dz5._3
         {
             MyMatrix mn = new MyMatrix(3, 7);
             mn.Show();
+            mn.Change(10, 10);
+            mn.Show();
             Console.ReadKey();
         }
     }
@@ -21,6 +23,10 @@ namespace Dz5._3
         public MyMatrix(int x, int y)
         {
             matrix = new int[x, y];
+        }
+        public void Change(int x, int y)
+        {
+            matrix = new int[x, y]; 
         }
         public void Show()
         {
